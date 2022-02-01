@@ -1,11 +1,4 @@
-/*
-Hi Jason! So first of all, an apology is in place: "I am so sorry for what you're about to see.".
-But also, if I didn't know we were friends, I'd be almost sure you we're trying to kill me with this one.
-It's been bugging me that I couldn't figure it out cause I've been stuck on this for ages... 
-Maybe some time in the future I will try the optional parts but right now I need a shower and an aspirin.
-I'm so relived it's finally working, you've got no idea. I even managed to get several "fatal error" announcements from my computer, that poor thing.
-Anyway, have fun!
-*/
+//you'll need this package: https://www.npmjs.com/package/readline-sync
 
 var rs = require("readline-sync");
 
