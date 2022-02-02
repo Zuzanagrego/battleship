@@ -1,4 +1,5 @@
-//you'll need this package: https://www.npmjs.com/package/readline-sync
+//you'll need this package to make it work: https://www.npmjs.com/package/readline-sync
+
 
 var rs = require("readline-sync");
 
