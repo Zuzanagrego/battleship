@@ -3,7 +3,7 @@
 
 var rs = require("readline-sync");
 
-//play again for while loop
+//play again variable for while loop
 let playAgain = true;
 
 // array of ships
