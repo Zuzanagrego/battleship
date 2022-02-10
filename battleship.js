@@ -1,5 +1,5 @@
 //you'll need this package to make it work: 
-// https://www.npmjs.com/package/readline-sync
+//https://www.npmjs.com/package/readline-sync
 // this is a terminal-based game
 
 var rs = require("readline-sync");
